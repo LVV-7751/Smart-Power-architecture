@@ -17,3 +17,5 @@
 Макро | Государства | Relational Power & Smart Integration
 
 Мета | ADS/AI | Algorithmic Seduction & ZD-strategies
+
+https://gist.github.com/LVV-7751/9f6e9fc1ee7210d74c9c164d19b6c797
